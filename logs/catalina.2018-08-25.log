@@ -1,0 +1,1 @@
+25-Aug-2018 12:21:23.785 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user []
